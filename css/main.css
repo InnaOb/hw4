@@ -1,0 +1,12 @@
+.task-block {
+    margin: 25px 0px 100px;
+}
+
+.title-text {
+    padding-top: 5px;
+}
+
+.error {
+    color: red;
+    font-size: 13px;
+}
